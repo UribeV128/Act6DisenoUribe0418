@@ -17,3 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+## capturas
+
+![image](https://github.com/UribeV128/Act6DisenoUribe0418/assets/143779478/4e485990-6e12-41df-9e37-cfffeb4131d3)
+
